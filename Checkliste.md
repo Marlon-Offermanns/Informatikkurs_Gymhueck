@@ -1,0 +1,7 @@
+- [x] Datei erstellt oder bearbeitet
+- [x] Änderungen in VS Code gefunden
+- [x] Datei gestaged
+- [x] Commit-Nachricht geschrieben
+- [x] Commit ausgeführt
+- [x] Push durchgeführt
+- [x] Beim nächsten Arbeiten an Pull gedacht

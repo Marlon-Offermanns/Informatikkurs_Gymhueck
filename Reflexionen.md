@@ -25,4 +25,10 @@
 - Der Befehl lädt die gewählten Änderungen auf GitHub hoch.
 - Der Befehl nimmt die gespeicherten Änderungen von GitHub.
 - Damit man weiß, wo man zuletzt war.
-  
+
+
+## Reflexion Kapitel 5
+
+- Der push und pull Schritt war einfach.
+- Das stagen und committen.
+- GitHub hilf dabei das Material sicher abzuspseichern und zur Verfügung stellt.
