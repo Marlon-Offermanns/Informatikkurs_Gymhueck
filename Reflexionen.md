@@ -18,3 +18,11 @@
 - Die Änderung einer Datei wird ausgewählt für den nächsten Commit.
 - add ist fast dasselbe, weil der git-Befehl alle Änderungnen auswählt, ähnlich wie stage.
 - Wenn man erkennen kann, was geändert wurde.
+
+
+## Reflexion Kapitel 4
+
+- Der Befehl lädt die gewählten Änderungen auf GitHub hoch.
+- Der Befehl nimmt die gespeicherten Änderungen von GitHub.
+- Damit man weiß, wo man zuletzt war.
+  
